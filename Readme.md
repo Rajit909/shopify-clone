@@ -1,6 +1,6 @@
 ![image](https://img.shields.io/badge/Shopify-clone-red)
 
-## Shopify_clone  [live Link](https://Shopify_clone.netlify.app/)
+## Shopify_clone  [live Link](https://shopify-clone-app.netlify.app/)
 
 **Name:** Rajit Kumar
 
