@@ -17,5 +17,19 @@
 ![image](https://img.shields.io/badge/Full%20stack%20JS%20bootcamp-Hitesh%20Chaudhary-lightgrey)
 
 
-![image](https://github.com/Rajit909/)
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss1.png)
+
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss2.png)
+
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss3.png)
+
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss4.png)
+
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss5.png)
+
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss6.png)
+
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss7.png)
+
+![image](https://github.com/Rajit909/shopify-clone/blob/main/images/ss8.png)
 
